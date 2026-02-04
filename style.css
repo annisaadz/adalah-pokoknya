@@ -47,7 +47,8 @@ body{
   width:160px;
 
   margin:15px auto;
-display:block;
+
+  display:block;
 
   animation:jellySlow 3s infinite;
 
@@ -90,7 +91,8 @@ display:block;
   background:white;
 
   padding:20px;
-border-radius:20px;
+
+  border-radius:20px;
 
   z-index:10;
 
@@ -135,7 +137,8 @@ input{
 .keypad button{
 
   padding:12px;
-border:none;
+
+  border:none;
 
   border-radius:12px;
 
@@ -176,6 +179,7 @@ border:none;
   position:relative;
 
 }
+
 #player{
 
   width:40px;
@@ -223,7 +227,8 @@ border:none;
   position:absolute;
 
   bottom:0;
-right:0;
+
+  right:0;
 
 }
 
@@ -268,6 +273,7 @@ right:0;
   font-size:28px;
 
   text-align:center;
+
 }
 
 /* ANIMASI */
@@ -313,6 +319,7 @@ right:0;
 }
 
 .popup-inner::-webkit-scrollbar-thumb {
+
   background: rgba(255,255,255,0.4);
 
   border-radius: 10px;
